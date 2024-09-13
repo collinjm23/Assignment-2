@@ -1,0 +1,1 @@
+This API uses the weather stack API to return information about a city. The information I chose to return was the name of the city, the country the city is in, the lattitude, and the longitude.
